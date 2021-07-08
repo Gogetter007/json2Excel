@@ -4,7 +4,7 @@ Code snippet which converts json format response into excel records
 Task Completion status:
 
 ### Build a REST api automation connector  
-- a. Use the provided endpoint to capture all the information and save it in an excel with correct  headers. → (Mandatory) - [COMPLETED]
+- Use the provided endpoint to capture all the information and save it in an excel with correct  headers. → (Mandatory) - [COMPLETED]
 
 
 ## jSon2Excel
